@@ -20,6 +20,7 @@ public class GIT {
         system.out.print("hey");//comentario
         system.out.printlm("tercero");//es el tercer commit
         //edito en la segunda rama
+        //vuelvo a editar por segunda vez, la segunda rama
     }
     
 }
